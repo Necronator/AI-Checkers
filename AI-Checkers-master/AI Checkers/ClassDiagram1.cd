@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AICheckers.FormMain">
+    <Position X="0.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>EICAAAgAACAACAEAAACAAAADAAAACBgAAAAAAAAABAA=</HashCode>
+      <FileName>FormMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AICheckers.Form1">
+    <Position X="2.75" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAGABABAAAACAAAACAEAAAAIAABQIAAQAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AICheckers.FormPvP">
+    <Position X="4.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>EICAAAgAACAACAEIAACAAAADAAAAChAAAAAAAAAAAAA=</HashCode>
+      <FileName>FormPvP.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AICheckers.BoardPanel">
+    <Position X="6.25" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AQCAAAAAIAAQAAQMCACAAAECAACAAMAIAgAACSECAAE=</HashCode>
+      <FileName>BoardPanel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AICheckers.BoardPanelPvP">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQCAAAAAIAAQAAQMCAAAAAECAACAAMAIAgAACSECAAE=</HashCode>
+      <FileName>BoardPanelPvP.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AICheckers.FindSquares">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>FindSquares.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="AICheckers.IAI" Collapsed="true">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>IAI.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
